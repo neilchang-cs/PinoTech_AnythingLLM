@@ -1,0 +1,1 @@
+ollama pull deepseek-r1:7b; ollama pull bge-m3:latest; ollama pull gemma3:4b; ollama pull gemma3:12b-it-q4_K_M; ollama pull deepseek-r1:14b-qwen-distill-q4_K_M; ollama pull embeddinggemma; ollama pull qwen2.5-coder:7b
